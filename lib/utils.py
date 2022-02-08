@@ -79,4 +79,4 @@ def save_tensor(
     ax.set_yticks([])
 
   os.makedirs(dir, exist_ok=True)
-  plt.savefig(f'{dir}/{filename}.png', format='png', dpi=600)
+  plt.savefig(f'{dir}/{filename}.png', format='png')
