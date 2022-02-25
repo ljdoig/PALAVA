@@ -1,4 +1,5 @@
-# PALAVA - a pathway-inferring VAE modification for single-cell gene expression data
+# PALAVA - **P**athway-**A**nnotated-**LA**tency **V**ariational **A**utoencoder
+# a pathway-inferring VAE modification for single-cell gene expression data
 
 PALAVA is a dimension reduction model based on VAE that aims to incorporate annotated gene pathways from libraries such as MSigDB or REACTOME. The model aims to unify two previously published models:
 
